@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="movies.xsl"?>
+<movies>
+    <movie>
+        <movieTitle>Tangled</movieTitle>
+        <director>Nathan Greno, Byron Howard</director>
+        <actors>
+            <actor>Mandy Moore</actor>
+            <actor>Zachary Levi</actor>
+            <actor>Donna Murphy</actor>
+        </actors>
+        <year>2010</year>
+    </movie>
+    <movie>
+        <movieTitle>Descendants</movieTitle>
+        <director>Kenny Ortega</director>
+        <actors>
+            <actor>Dove Cameron</actor>
+            <actor>Sofia Carson</actor>
+            <actor>Cameron Boyce</actor>
+        </actors>
+        <year>2015</year>
+    </movie>
+    <movie>
+        <movieTitle>Frozen</movieTitle>
+        <director>Chris Buck, Jennifer Lee</director>
+        <actors>
+            <actor>Idina Menzel</actor>
+            <actor>Kristen Bell</actor>
+            <actor>Josh Gad</actor>
+        </actors>
+        <year>2013</year>
+    </movie>
+    <movie>
+        <movieTitle>Moana</movieTitle>
+        <director>Ron Clements, John Musker</director>
+        <actors>
+            <actor>Auli'i Cravalho</actor>
+            <actor>Dwayne Johnson</actor>
+            <actor>Rachel House</actor>
+        </actors>
+        <year>2016</year>
+    </movie>
+    <movie>
+        <movieTitle>Cinderella</movieTitle>
+        <director>Kenneth Branagh</director>
+        <actors>
+            <actor>Lily James</actor>
+            <actor>Richard Madden</actor>
+            <actor>Helena Bonham Carter</actor>
+        </actors>
+        <year>2015</year>
+    </movie>
+    <movie>
+        <movieTitle>Beauty and the Beast</movieTitle>
+        <director>Bill Condon</director>
+        <actors>
+            <actor>Emma Watson</actor>
+            <actor>Dan Stevens</actor>
+            <actor>Luke Evans</actor>
+        </actors>
+        <year>2017</year>
+    </movie>
+    <movie>
+        <movieTitle>Aladdin</movieTitle>
+        <director>Guy Ritchie</director>
+        <actors>
+            <actor>Will Smith</actor>
+            <actor>Mena Massoud</actor>
+            <actor>Naomi Scott</actor>
+        </actors>
+        <year>2019</year>
+    </movie>
+    <movie>
+        <movieTitle>The Little Mermaid</movieTitle>
+        <director>Rob Marshall</director>
+        <actors>
+            <actor>Halle Bailey</actor>
+            <actor>Melissa McCarthy</actor>
+            <actor>Javier Bardem</actor>
+        </actors>
+        <year>2023</year>
+    </movie>
+    <movie>
+        <movieTitle>Raya and the Last Dragon</movieTitle>
+        <director>Don Hall, Carlos López Estrada</director>
+        <actors>
+            <actor>Kelly Marie Tran</actor>
+            <actor>Awkwafina</actor>
+            <actor>Gemma Chan</actor>
+        </actors>
+        <year>2021</year>
+    </movie>
+    <movie>
+        <movieTitle>Encanto</movieTitle>
+        <director>Jared Bush, Byron Howard</director>
+        <actors>
+            <actor>Stephanie Beatriz</actor>
+            <actor>María Cecilia Botero</actor>
+            <actor>John Leguizamo</actor>
+        </actors>
+        <year>2021</year>
+    </movie>
+    <movie>
+        <movieTitle>The Princess and the Frog</movieTitle>
+        <director>Ron Clements, John Musker</director>
+        <actors>
+            <actor>Anika Noni Rose</actor>
+            <actor>Bruno Campos</actor>
+            <actor>Keith David</actor>
+        </actors>
+        <year>2009</year>
+    </movie>
+    <movie>
+        <movieTitle>Maleficent</movieTitle>
+        <director>Robert Stromberg</director>
+        <actors>
+            <actor>Angelina Jolie</actor>
+            <actor>Elle Fanning</actor>
+            <actor>Sharlto Copley</actor>
+        </actors>
+        <year>2014</year>
+    </movie>
+</movies>
